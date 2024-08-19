@@ -1,3 +1,4 @@
+# -*- PS -*-
 function prompt {
   $loc = $executionContext.SessionState.Path.CurrentLocation;
 
